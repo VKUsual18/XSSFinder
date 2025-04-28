@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/s0md3v/XSStrike"><img src="https://i.imgur.com/QuQGTkv.png" alt="XSS Finder"></a>
+  <a href="https://github.com/VKUsual18/XSSFinder"><img src="https://i.imgur.com/QuQGTkv.png" alt="XSS Finder"></a>
   <br>
   XSS Finder
   <br>
