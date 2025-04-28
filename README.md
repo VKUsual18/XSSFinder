@@ -8,18 +8,6 @@
 
 <h4 align="center">Advanced XSS Detection Suite</h4>
 
-<p align="center">
-  <a href="https://github.com/s0md3v/XSStrike/releases">
-    <img src="https://img.shields.io/github/release/s0md3v/XSStrike.svg">
-  </a>
-  <a href="https://travis-ci.com/s0md3v/XSStrike">
-    <img src="https://img.shields.io/travis/com/s0md3v/XSStrike.svg">
-  </a>
-  <a href="https://github.com/s0md3v/XSStrike/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues-closed-raw/s0md3v/XSStrike.svg">
-  </a>
-</p>
-
 ![multi xss](https://image.ibb.co/gOCV5L/Screenshot-2018-11-19-13-33-49.png)
 
 XSS Finder is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.
@@ -49,13 +37,12 @@ Apart from that, XSS Finder has crawling, fuzzing, parameter discovery, WAF dete
 - Highly researched work-flow
 - Complete HTTP support
 - Bruteforce payloads from a file
-- Powered by [Photon](https://github.com/s0md3v/Photon), [Zetanize](https://github.com/s0md3v/zetanize) and [Arjun](https://github.com/s0md3v/Arjun)
 - Payload Encoding
 
 ### Installation
 Enter the following commands one by one in terminal:
 ```
-git clone https://github.com/s0md3v/XSSFinder
+git clone https://github.com/VKUsual18/XSSFinder
 cd XSSFinder
 pip install -r requirements.txt --break-system-packages
 ```
@@ -69,15 +56,6 @@ python xssfinder.py
 - [Usage](https://github.com/s0md3v/XSStrike/wiki/Usage)
 - [Compatibility & Dependencies](https://github.com/s0md3v/XSStrike/wiki/Compatibility-&-Dependencies)
 
-### FAQ
-- [It says fuzzywuzzy isn't installed but it is.](https://github.com/s0md3v/XSStrike/wiki/FAQ#it-says-fuzzywuzzy-is-not-installed-but-its)
-- [What's up with Blind XSS?](https://github.com/s0md3v/XSStrike/wiki/FAQ#whats-up-with-blind-xss)
-- [Why XSStrike boasts that it is the most advanced XSS detection suite?](https://github.com/s0md3v/XSStrike/wiki/FAQ#why-xsstrike-boasts-that-it-is-the-most-advanced-xss-detection-suite)
-- [I like the project, what enhancements and features I can expect in future?](https://github.com/s0md3v/XSStrike/wiki/FAQ#i-like-the-project-what-enhancements-and-features-i-can-expect-in-future)
-- [What's the false positive/negative rate?](https://github.com/s0md3v/XSStrike/wiki/FAQ#whats-the-false-positivenegative-rate)
-- [Tool xyz works against the target, while XSStrike doesn't!](https://github.com/s0md3v/XSStrike/wiki/FAQ#tool-xyz-works-against-the-target-while-xsstrike-doesnt)
-- [Can I copy it's code?](https://github.com/s0md3v/XSStrike/wiki/FAQ#can-i-copy-its-code)
-- [What if I want to embed it into a proprietary software?](https://github.com/s0md3v/XSStrike/wiki/FAQ#what-if-i-want-to-embed-it-into-a-proprietary-software)
 
 ### Gallery
 #### DOM XSS
