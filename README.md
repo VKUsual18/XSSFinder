@@ -57,21 +57,6 @@ python xssfinder.py
 - [Compatibility & Dependencies](https://github.com/s0md3v/XSStrike/wiki/Compatibility-&-Dependencies)
 
 
-### Gallery
-#### DOM XSS
-![dom xss](https://image.ibb.co/bQaQ5L/Screenshot-2018-11-19-13-48-19.png)
-#### Reflected XSS
-![multi xss](https://image.ibb.co/gJogUf/Screenshot-2018-11-19-14-19-36.png)
-#### Crawling
-![crawling](https://image.ibb.co/e6Rezf/Screenshot-2018-11-19-13-50-59.png)
-#### Fuzzing
-![fuzzing](https://image.ibb.co/fnhuFL/Screenshot-2018-11-19-14-04-46.png)
-#### Bruteforcing payloads from a file
-![bruteforcing](https://image.ibb.co/dy5EFL/Screenshot-2018-11-19-14-08-36.png)
-#### Interactive HTTP Headers Prompt
-![headers](https://image.ibb.co/ecNph0/Screenshot-2018-11-19-14-29-35.png)
-#### Hidden Parameter Discovery
-![arjun](https://image.ibb.co/effjh0/Screenshot-2018-11-19-14-16-51.png)
 
 ### Contribution, Credits & License
 Ways to contribute
