@@ -1,0 +1,16 @@
+###Python Versions
+XSStrike is fully compatible with python versions >= 3.4
+
+###Operating Systems
+XSStrike has been tested on Linux (Arch, Debian, Ubnutu), Termux, Windows (7 & 10), Mac, and works as expected. Feel free to report any bugs you encounter.
+
+###Colors
+Mac & Windows don't support ANSI escape sequences so the output won't be colored on Mac & Windows.
+
+###Dependencies
+tld
+requests
+fuzzywuzzy
+**Note: ** Use pip3 instead of pip to install dependencies.
+
+Rest of the python libraries used by XSStrike are standard libraries which come preinstalled with a python interpreter.
