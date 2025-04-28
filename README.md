@@ -22,15 +22,6 @@
 
 ![multi xss](https://image.ibb.co/gOCV5L/Screenshot-2018-11-19-13-33-49.png)
 
-<p align="center">
-  <a href="https://github.com/s0md3v/XSStrike/wiki">XSStrike Wiki</a> •
-  <a href="https://github.com/s0md3v/XSStrike/wiki/Usage">Usage</a> •
-  <a href="https://github.com/s0md3v/XSStrike/wiki/FAQ">FAQ</a> •
-  <a href="https://github.com/s0md3v/XSStrike/wiki/For-Developers">For Developers</a> •
-  <a href="https://github.com/s0md3v/XSStrike/wiki/Compatibility-&-Dependencies">Compatibility</a> •
-  <a href="https://github.com/s0md3v/XSStrike#gallery">Gallery</a>
-</p>
-
 XSS Finder is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.
 
 Instead of injecting payloads and checking it works like all the other tools do, XSS Finder analyses the response with multiple parsers and then crafts payloads that are guaranteed to work by context analysis integrated with a fuzzing engine.
