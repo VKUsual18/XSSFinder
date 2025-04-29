@@ -5,9 +5,7 @@ from __future__ import print_function
 from core.colors import end, red, white, bad, info
 
 # Just a fancy ass banner
-print('''%s
-\tXSS Finder%sv3.1.5
-%s''' % (red, white, end)
+print('''%s\t
       
      ▒██   ██▒  ██████   ██████      █████▒██▓ ███▄    █ ▓█████▄ ▓█████  ██▀███  
 ▒▒ █ █ ▒░▒██    ▒ ▒██    ▒    ▓██   ▒▓██▒ ██ ▀█   █ ▒██▀ ██▌▓█   ▀ ▓██ ▒ ██▒
@@ -18,7 +16,8 @@ print('''%s
 ░░   ░▒ ░░ ░▒  ░ ░░ ░▒  ░ ░    ░      ▒ ░░ ░░   ░ ▒░ ░ ▒  ▒  ░ ░  ░  ░▒ ░ ▒░
  ░    ░  ░  ░  ░  ░  ░  ░      ░ ░    ▒ ░   ░   ░ ░  ░ ░  ░    ░     ░░   ░ 
  ░    ░        ░        ░             ░           ░    ░       ░  ░   ░     
-     )
+
+%s''' % (green, white, end))
 
 try:
     import concurrent.futures
